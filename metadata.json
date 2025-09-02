@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "An application to generate new images from text prompts or edit existing images using Gemini AI. Users can provide a text prompt to create an image or upload their own image along with a prompt to modify it.",
+  "requestFramePermissions": []
+}
